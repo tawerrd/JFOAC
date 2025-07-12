@@ -1,4 +1,5 @@
 # Just-for-online-AI-chat-by Tawer
+A frontend page for chatting with AI online through an API<br>
 Just for online AI chat<br>
 I just want my favorite characters to exist<br>
 So I made this<br>
