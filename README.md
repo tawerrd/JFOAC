@@ -10,6 +10,8 @@ Start<br>
 2.python backend.py<br>
 3.http://127.0.0.1:5000<br>
 Demo:<br>
+
+Thanks to cloudflare, vercel, PollinationsAI for helping me<br>
 ![:name](https://count.getloli.com/@JFOCsadsfhuiasjdnih?name=JFOCsadsfhuiasjdnih&theme=kasuterura-4&padding=9&offset=0&align=top&scale=1&pixelated=0&darkmode=0)
 
 
