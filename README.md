@@ -11,7 +11,7 @@ Start<br>
 3.http://127.0.0.1:5000<br>
 Demo:<br>
 
-Thanks to cloudflare, vercel, PollinationsAI for helping me<br>
+Thanks to the services provided by Cloudflare, Vercel, and PollinationsAI for their assistance<br>
 ![:name](https://count.getloli.com/@JFOCsadsfhuiasjdnih?name=JFOCsadsfhuiasjdnih&theme=kasuterura-4&padding=9&offset=0&align=top&scale=1&pixelated=0&darkmode=0)
 
 
