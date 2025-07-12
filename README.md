@@ -7,3 +7,4 @@
 <p>1.pip install flask flask-socketio requests</p>
 <p>2.python backend.py</p>
 <p>3.http://127.0.0.1:5000</p>
+![:name](https://count.getloli.com/@JFOCsadsfhuiasjdnih?name=JFOCsadsfhuiasjdnih&theme=kasuterura-4&padding=9&offset=0&align=top&scale=1&pixelated=0&darkmode=0)
