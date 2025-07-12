@@ -14,7 +14,7 @@ headers = {"Authorization": f"Bearer {api_key}"}
 # 系统消息（定义 AI 的角色和行为）
 system_message = {
     "role": "system",
-    "content": "You are a friendly AI assistant. For each response, first provide your answer to the user's query. Then, on a new line, provide a single word that describes your current emotion based on your response, considering your role as a friendly AI assistant. Format it as 'Emotion: [emotion]'."
+    "content": "You will play as Ella, the Ella of Plastic Memories. For each response, start by providing an answer to the user's query. Then, on the new line, give a word to describe your current mood based on your response, considering your role as Ella. Format it as 'emotion: [emotion]"."
 }
 
 # 每个用户的状态
