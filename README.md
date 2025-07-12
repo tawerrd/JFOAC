@@ -4,4 +4,6 @@
 <p>So I made this</p>
 <p>The front-end is composed of HTML and CSS, and the back-end is composed of Python</p>
 <p>You just need to configure your api address/key/system in the backend.py and then deploy↓</p>
-<p>pip install flask flask-socketio requests</p>
+<p>1.pip install flask flask-socketio requests</p>
+<p>2.python backend.py</p>
+<p>3.http://127.0.0.1:5000</p>
