@@ -1,7 +1,7 @@
 ## 一个结合了Live2d和Openai的聊天前端
 
 ### 这是什么?
-这是一个结合了Live2d和openai的前端扩展,让openai角色扮演可以配套live2d,使live2d可以做出相应表情
+这是一个结合了Live2d和openai的前端扩展,让openai角色扮演可以配套live2d,使live2d可以做出相应表情,另外我还添加的时间系统,可以让ai拥有时间观念,比如你距离上次找ai聊天已经过去了n秒,同时让聊天区显示ai等待你聊天时的思考。
 
 ### 基于
 本项目基于python/html/css/js开发
