@@ -1,7 +1,7 @@
 ## A chat front-end that combines Live2d and Openai
 
 ### What is it?
-This is a front-end extension that combines Live2D and OpenAI, enabling OpenAI character role-playing to work with Live2D, allowing Live2D to create corresponding expressions.
+This is a front-end extension that combines Live2D and OpenAI, enabling OpenAI character role-playing to work with Live2D, allowing Live2D to create corresponding expressions,In addition, I also added a time system that allows the AI to have a sense of time, for example, it has been n seconds since you last chatted with the AI, and at the same time, let the chat area show the thoughts of the AI waiting for you to chat.
 
 ### Based on
 This project is developed using Python/HTML/CSS/JS
